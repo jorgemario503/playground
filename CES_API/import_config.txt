@@ -1,0 +1,5 @@
+database=ces_time_series
+hostname=localhost
+username=USERNAME
+password=PASSWORD
+api_key=API_KEY
